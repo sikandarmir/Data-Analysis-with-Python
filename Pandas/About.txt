@@ -1,1 +1,12 @@
-Data analyis using pandas and numpy.
+### Al-Hawama Data  manipulation Using pandas
+### Objectives
+Our objectives is explore the data and perform these tasks
+1. Explore Datetime properties and extract month, day, time, etc from the datetime column.
+2. Explore merge, join and concat functions of pandas.
+3. Replace string values in a column
+4. Change the name of columns, make it proper.
+5. Filter the data, for instance filter the data wrt to a given year, month, country, etc.
+6. Explore the groupby function and also aggregation of your choice.
+7. Apply Pivot Table on the data set.
+8. Replace null values, if any. What are good techniques for null values imputation?
+9. From the dataset provided, there is an Item Number mentioned. But I need Item names for that Item. How will you achieve tha? Same goes for Customer name, Supplier Name, etc.
